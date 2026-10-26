@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shortcuts xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Lets the "track" sharing shortcut (ShareShortcut.kt) show up in the top row of share sheets. -->
+    <share-target android:targetClass="pl.rosstracker.MainActivity">
+        <data android:mimeType="text/plain" />
+        <category android:name="pl.rosstracker.category.SHARE_TARGET" />
+    </share-target>
+</shortcuts>

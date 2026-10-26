@@ -1,0 +1,5 @@
+<resources>
+    <color name="ic_launcher_background">#B4583F</color>
+    <!-- Cream; matches the Compose background so there is no flash on start. -->
+    <color name="window_background">#F4EFE8</color>
+</resources>

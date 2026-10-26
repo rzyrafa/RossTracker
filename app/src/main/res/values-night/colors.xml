@@ -1,0 +1,4 @@
+<resources>
+    <!-- Dark roast; matches the Compose background in night mode. -->
+    <color name="window_background">#1B1714</color>
+</resources>
